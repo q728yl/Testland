@@ -1,0 +1,11 @@
+.success-indicator {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: green;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
